@@ -1,7 +1,6 @@
-<?xml version="1.0" encoding="utf-8"?>
-<profiles xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
- xsi:noNamespaceSchemaLocation="google-java-formatter.xsd" version="21">
-    <profile kind="CodeFormatterProfile" name="Project" version="21">
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<profiles version="21">
+<profile kind="CodeFormatterProfile" name="GoogleStyle" version="21">
         <setting id="org.eclipse.jdt.core.formatter.tabulation.char" value="space"/>
         <setting id="org.eclipse.jdt.core.formatter.use_tabs_only_for_leading_indentations" value="false"/>
         <setting id="org.eclipse.jdt.core.formatter.indentation.size" value="2"/>
